@@ -1,0 +1,17 @@
+td.post_views_shortcode.column-post_views_shortcode span.wpvc-shortcode {
+    font-family: monospace;
+}
+
+td.post_views_shortcode.column-post_views_shortcode {
+    vertical-align: middle;
+}
+
+td.post_views_shortcode.column-post_views_shortcode span.wpvc-copy-button {
+    background: #2771b1;
+    color: #fff;
+    font-size: 12px;
+    cursor: pointer;
+    border-radius: 4px;
+    padding: 2px 6px;
+    transition: all .3s ease-in-out;
+}
